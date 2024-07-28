@@ -14,6 +14,8 @@ Open a terminal and run this command to start the server:\
 Open another terminal and run this command to run the client:\
 `node client.js`
 
+A new file named `stockData.json` will be generated in the same directory.\
+
 ## Screenshots:
 `Start Server`: ![Start Server](screenshots/startServer.png) \
 `Start Client`: ![Start Client](screenshots/startClient.png) \
