@@ -3,7 +3,7 @@ Betacrew assignment to read stock data from mock server
 
 ## Instructions to run
 Clone the repository:\
-`git clone https://github.com/pnaruka/BetacrewAssignm`\
+`git clone https://github.com/pnaruka/BetacrewAssignm`
 
 Navigate to the project directory:\
 `cd BetacrewAssignm`
